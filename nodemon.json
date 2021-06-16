@@ -1,0 +1,6 @@
+{
+  "watch": [
+    "my-vite/src"
+  ],
+  "exec": "my-vite"
+}
